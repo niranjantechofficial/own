@@ -20,3 +20,4 @@ pyaes==1.6.1
 soupsieve==2.2.1
 py-tgcalls==0.6.0
 jinja2
+threading
